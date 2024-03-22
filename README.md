@@ -17,7 +17,7 @@ Install in the examples/directory
 
 Move all depend files into this directory:
 
-map.c \n
+map.c 
 map.h
 ripemd160.c
 ripemd160.h
